@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Furnity - Minimalist Furniture</title>
+
+</head>
+<body>
+    <header>
+         
+        <h1><img height="50" src="photo_5217803803837533879_m.jpg">Furnity</h1>
+        <nav>
+            <a href="#">Bedroom</a>
+            <a href="#">Living Room</a>
+            <a href="#">Dining Room</a>
+            <a href="#">Office</a>
+            <a href="#">Kitchen</a>
+            <a href="#">Sofa</a>
+        </nav>
+        <img src="baner.jpg">
+    </header>
+
+    <main>
+        <section>
+            <h2>Offer products to make your interior Minimalist.</h2>
+            <p>We have helped more than 1000+ people to give perfect comfort to the interior of their home</p>
+            <button>Start Shopping</button>
+        </section>
+
+        <section>
+            <h3>Final Products</h3>
+            <div class="products">
+                <div>
+                    <img  height="150" src="one.png">
+                    <h4>Sakarias Armchair</h4>
+                    <p>$392<button>+</button></p>
+                   
+                </div>
+                <div>
+                    <img  height="150" src="two.png">
+                    <h4>Baltsar Chair</h4>
+                    <p>$299 <button>+</button></p>
+                    
+                </div>
+                <div>
+                    <img  height="150" src="three.png">
+                    <h4>Anjay Chair</h4>
+                    <p>$519<button>+</button></p>
+                    
+                </div>
+                <div>
+                    <img  height="150" src="fhour.png">
+                    <h4>Nyantuy Chair</h4>
+                    <p>$921<button>+</button></p>
+                   
+                </div>
+            </div>
+        </section>
+        <br>
+        <section>
+            
+            <div class="services">
+                <div>
+                    <h4>Fast and safe delivery</h4>
+                    <p>Please login and buy our products, safe delivery guaranteed</p>
+                </div>
+                <div>
+                    <h4>24 hour customer service</h4>
+                    <p>Our customer service is ready to serve you at any time</p>
+                </div>
+                <div>
+                    <h4>Quick and easy returns</h4>
+                    <p>Items that do not match we are ready to replace</p>
+                </div>
+                <div>
+                    <h4>The price match is very fitting</h4>
+                    <p>The price is very in accordance with the quality</p>
+                </div>               
+            </div>
+             <button>Start shopping</button><img  height="250" src="five.jpg">
+           
+        </section>
+        <section>
+             <h1>Various collections of furniture to fill your interior</h1>
+    <p>We provide a variety of goods with the best quality for you to find the right one to meet your interior needs.</p>
+
+    <div>
+        <nav>
+            <a href="#">Bedroom</a>
+            <a href="#">Living Room</a>
+            <a href="#">Dining Room</a>
+            <a href="#">Office</a>
+            <a href="#">Kitchen</a>
+            <a href="#">Sofa</a>
+        </nav>
+    </div>
+
+    <div>
+        <div>
+            <img  height="150" src="one.png">
+            <br>
+            Chair
+            <br>
+            Sakarias Armchair
+            <br>
+            $392<button>+</button>
+        </div>
+        
+        <div>
+            <img  height="150" src="two.png">
+            <br>
+            Chair
+            <br>
+            Baltsar Chair
+            <br>
+            $299<button>+</button>
+        </div>
+        
+        <div>
+            <img  height="150" src="three.png">
+            <br>
+            Chair
+            <br>
+            Anjay Chair
+            <br>
+            $519<button>+</button>
+        </div>
+        
+        <div>
+            <img  height="150" src="fhour.png">
+            <br>
+            Chair
+            <br>
+            Nyantuy Chair
+            <br>
+            $921<button>+</button>
+        </div>
+    </div>
+
+    <div>
+        <div>
+            <img  height="150" src="six.png">
+            <br>
+            Chair
+            <br>
+            Sakarias Armchair
+            <br>
+            $392<button>+</button>
+        </div>
+        
+        <div>
+            <img  height="150" src="seven.png">
+            <br>
+            Chair
+            <br>
+            Baltsar Chair
+            <br>
+            $299<button>+</button>
+        </div>
+        
+        <div>
+            <img  height="150" src="eight.png">
+            <br>
+            Chair
+            <br>
+            Nyantuy Chair
+            <br>
+            $921<button>+</button>
+        </div>
+        
+        <div>
+            <img  height="150" src="nine.png">
+            <br>
+            Chair
+            <br>
+            Anjay Chair
+            <br>
+            $519<button>+</button>
+        </div>
+    </div>
+        </section>
+        <section>
+            <h3>What are they saying?</h3>
+             <p><img  height="70" src="ten.jpg"><strong>Jane Lowis</strong> - Housewife</p>
+            <blockquote>
+            "The services and products offered are very good, matched what I was looking for. Now my room is more beautiful and aesthetic."
+            </blockquote>
+            <img  height="150" src="eleven (1).jpg">
+        </section>
+
+        <section>
+            <h3>Contact us if you need anything</h3>
+            <p>We are ready to serve you</p>
+            <button>Contact us</button>
+        </section>
+    </main>
+
+    <footer>
+        <h3>Furnity</h3>
+        <nav>
+            <a href="#">Support</a>
+            <a href="#">Privacy Policy</a>
+            <a href="#">Terms and Conditions</a>
+        </nav>
+        <p>© 2020 Furnity. All Rights Reserved</p>
+    </footer>
+</body>
+</html>
